@@ -14,8 +14,6 @@ Ensures Quality and Reliability: The principles of software engineering ensure t
 
 Enables Scalability and Flexibility: As businesses grow, their software needs evolve. Software engineering practices such as modular design, version control, and continuous integration allow systems to scale efficiently and adapt to changing requirements without compromising performance.
 
-Cost-Effective Development: By employing systematic approaches, software engineering helps in reducing development time and costs. It emphasizes reusability, proper documentation, and testing, which minimizes the risk of costly errors and rework.
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 The evolution of software engineering has been marked by several key milestones, each representing significant advancements in how software is developed, managed, and maintained. Here are three pivotal moments:
